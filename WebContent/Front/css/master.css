@@ -1,0 +1,34 @@
+/*------------------------------------------------------------------
+[Master Stylesheet]
+
+Project:	iSmile - Phones Market HTML/CSS Template 
+Version:	1.1
+Author:	    Andrey Sokoltsov
+Profile:	http://themeforest.net/user/andreysokoltsov
+-------------------------------------------------------------------*/
+
+/* Fonts */
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,400italic,300,700,700italic);
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+@import url("../fonts/elegant_font/style.css");
+/* PLUGIN CSS */
+@import url("../assets/owl-carousel/owl.carousel.css");
+@import url("../assets/owl-carousel/owl.theme.default.css");
+@import url("../assets/bootstrap-select/bootstrap-select.min.css");
+@import url("../assets/bxslider/jquery.bxslider.css");
+@import url("../assets/slider-pro-master/css/slider-pro.min.css");
+@import url("../assets/flag-icon.css");
+@import url("../assets/switcher/css/color1.css");
+@import url("../assets/countdown/dscountdown.css");
+@import url("../assets/prettyPhoto/css/prettyPhoto.css");
+/* MAIN CSS */
+@import url("bootstrap.min.css");
+@import url("jquery-ui.min.css");
+@import url("theme.css");
+@import url("typography.css");
+@import url("responsive.css");
+@import url("animate.css");
+@import url("hover-min.css");
+@import url("main-slider.css");

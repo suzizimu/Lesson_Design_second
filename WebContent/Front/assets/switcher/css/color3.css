@@ -1,0 +1,409 @@
+.demo_changer .demo-icon {
+  background: #ff9600;
+}
+
+.slider-discount span {
+  color: #ff9600;
+}
+
+.border-line:before {
+  background: #ff9600;
+}
+
+.main-slider .sp-buttons .sp-selected-button,
+.main-slider .sp-buttons .sp-button:hover {
+  background: #ff9600;
+  border-color: #ff9600;
+  cursor: pointer;
+}
+
+/* owl controls */
+.owl-theme .owl-dots .owl-dot.active span,
+.owl-theme .owl-dots .owl-dot:hover span {
+  background: #ff9600 !important;
+  border: 1px solid #ff9600 !important;
+}
+
+/* bx controls */
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+  background: #ff9600 !important;
+  border: 1px solid transparent !important;
+}
+
+.demo_changer .demo-icon {
+  background: #ff9600;
+}
+
+.slider-discount span {
+  color: #ff9600;
+}
+
+.border-line:before {
+  background: #ff9600;
+}
+
+.main-slider .sp-buttons .sp-selected-button,
+.main-slider .sp-buttons .sp-button:hover {
+  background: #ff9600;
+  border-color: #ff9600;
+  cursor: pointer;
+}
+
+/* header */
+.b-top-line .nav .dropdown-menu li a:hover {
+  color: #ff9600;
+}
+header .b-logo span:first-child:first-letter {
+  color: #ff9600;
+}
+
+header .b-header-menu a.heading-line:before {
+  background: transparent;
+}
+
+header .b-header-menu a:hover, header .b-header-menu a.open-active {
+  color: #ff9600;
+}
+
+header .b-header-main.style-2 .b-header-menu a:hover, header .b-header-menu a.open-active {
+  text-decoration: none;
+  color: #ff9600 !important;
+}
+
+header .b-header-menu a:hover.heading-line:before, header .b-header-menu a.open-active.heading-line:before {
+  background: #ff9600;
+}
+
+header .b-header-menu .search.active a {
+  color: #ff9600;
+}
+
+header #cart i {
+  color: #ff9600;
+}
+
+header .b-header-main.style-2 #cart .counter{
+  background: #ff9600;
+}
+
+header .all-menu-content .all-menu-title {
+  color: #ff9600;
+}
+
+/* footer */
+footer {
+  border-top: 3px solid #ff9600;
+}
+
+footer .b-logo span:first-child:first-letter {
+  color: #ff9600;
+}
+
+footer .footer-menu-item a:hover:before {
+  color: #ff9600;
+}
+
+footer .footer-socials .b-socials li a:hover {
+  background: #ff9600;
+}
+
+/* rating stars */
+.rating .star i {
+  color: #ff9600;
+}
+
+.rating .star.star-empty i {
+  color: #888888;
+}
+
+/* header */
+header .b-header-menu a.heading-line:before {
+  background: transparent;
+}
+header .b-header-menu a:hover, header .b-header-menu a.open-active {
+  text-decoration: none;
+  color: #ff9600;
+}
+header .b-header-menu a:hover.heading-line:before, header .b-header-menu a.open-active.heading-line:before {
+  background: #ff9600;
+}
+header .b-header-menu .search.active a {
+  color: #ff9600;
+}
+header .b-cart:hover #cart {
+  background: #ff9600;
+}
+header .all-menu-content .all-menu-title {
+  color: #ff9600;
+}
+header .all-menu-item a {
+  color: #444444;
+}
+
+/* rating stars */
+.rating .star i {
+  color: #ff9600;
+  font-size: 15px;
+}
+.rating .star.star-empty i {
+  color: #888888;
+}
+
+.section-home .b-store-features .feature-icon {
+  color: #ff9600;
+}
+
+.b-store-features .feature-icon {
+  color: #ff9600;
+}
+
+.caption .product-price {
+  color: #ff9600;
+}
+
+.cart-add-buttons #add-cart1 {
+  background: #ff9600;
+}
+
+.heading-line::before, .heading-line-long::before {
+  background: #ff9600;
+}
+
+.image::after {
+  background: #ff9600;
+}
+
+.b-item-card .add-buttons button:hover {
+  background: #ff9600 !important;
+}
+
+.detail-buttons .add-buttons .btn:hover {
+  background: #ff9600;
+}
+
+.detail-buttons .add-buttons.custom-add-buttons .btn:hover {
+  background: none;
+}
+.detail-buttons .add-buttons.custom-add-buttons .btn:hover i {
+  color: #ff9600;
+}
+
+.tags-buttons .btn-tag.active {
+  background: #ff9600;
+}
+
+.tags-buttons .btn-tag:hover {
+  background: #ff9600;
+}
+
+.ds-custom .ds-element .ds-element-value:after {
+  background: #ff9600;
+}
+
+.b-grid.b-grid-list .b-item-card .card-info .product-name:before {
+  background: #ff9600;
+}
+
+/* blog */
+.post-data {
+  background: #ff9600;
+}
+
+.b-posts-switcher .switch-previous,
+.b-posts-switcher .switch-next {
+  border-bottom: 2px solid #ff9600;
+}
+
+.b-posts-switcher .switch-link:hover span {
+  color: #ff9600;
+}
+
+.comment-body .comment-author .comment-reply {
+  color: #ff9600;
+}
+
+.filter-smart-item .smart-caption p {
+  border-bottom: 2px solid #ff9600;
+}
+.filter-smart-item:hover .smart-caption p {
+  background: #ff9600;
+}
+
+.b-home-blog.home-blog-mod .b-post-preview .post-caption .caption::before {
+  background: #ff9600;
+}
+
+/* tables */
+.table thead tr td {
+  border-bottom: 4px solid #ff9600;
+}
+
+.table thead tr td span::after {
+  background: #ff9600;
+}
+
+.product-price.total-price {
+  color: #ff9600;
+}
+
+.b-total-table table tbody .total td:last-child {
+  color: #ff9600;
+}
+
+/* quotes */
+.b-blockquote-fa-quote-circle .circle-block .circle-author .circle-author-role {
+  color: #ff9600;
+}
+
+.b-blockquote-fa-quote-circle .circle-block .circle-author::before {
+  background: #ff9600;
+}
+
+/* price-slider filter*/
+.ui-slider-horizontal .ui-slider-range {
+  background: #ff9600;
+}
+
+.ui-slider .ui-slider-handle {
+  border: 2px solid #ff9600;
+}
+
+/* buttons */
+button[type="submit"] {
+  border: 2px solid #ff9600;
+}
+
+.btn-primary-color2, .btn-cart-color2 {
+  background: #ff9600;
+  border: 2px solid #ff9600;
+}
+
+.btn-default-color2, .btn-label-color2 {
+  border: 2px solid #ff9600;
+}
+
+.btn-default-color2:hover, .btn-label-color2:hover {
+  background: #ff9600;
+}
+
+.add-buttons .btn-add-cart-color2,
+.add-buttons .btn-add-wish-color2 {
+  background: #ff9600;
+}
+.qty-block .spinner-btn-mod:hover {
+  background: #ff9600;
+}
+
+/* pagination */
+.pagination-mod.pagination-color1 li.active a {
+  color: #ff9600;
+}
+.pagination-mod.pagination-color2 li.active a {
+  border: 2px solid #ff9600;
+  background: #ff9600;
+}
+
+.b-contact-info .info-title i {
+  color: #ff9600;
+}
+
+/* checkbox/radio */
+/* checkbox + radio */
+.radio1 label:before {
+  background: #ff9600;
+}
+
+.radio2 input[type=radio]:checked + label:after {
+  background-color: #ff9600;
+}
+
+.checkbox-2 input[type=checkbox]:checked + label:before {
+  background: #ff9600;
+}
+/* progress bar */
+.progress.progress-color2 .progress-bar {
+  background: #ff9600;
+}
+.progress.progress-mod.progress-color2 {
+  border: 2px solid #ff9600;
+}
+.progress.progress-mod.progress-color2 .progress-bar {
+  background: #ff9600;
+}
+/*highlight*/
+.highlight-primary {
+  background: #ff9600;
+}
+
+.highlight-primary-nobg {
+  color: #ff9600;
+}
+
+/* tooltips */
+.red-tooltip + .tooltip > .tooltip-inner {
+  background-color: #ff9600;
+}
+
+.red-tooltip + .tooltip > .tooltip-arrow {
+  border-top-color: #ff9600;
+}
+
+.black-tooltip {
+  color: #ff9600;
+}
+
+/* lists */
+.b-list.long-arrow-right li:before {
+  color: #ff9600;
+}
+
+.b-list.l-checked .l-not-check:before {
+  color: #ff9600;
+}
+
+.b-list.chevron li:before {
+  color: #ff9600;
+}
+
+.b-list.l-checked-square .l-check-square:before {
+  color: #ff9600;
+}
+.b-list.l-checked-square .l-not-check-square:before {
+  color: #ff9600;
+}
+
+.b-list.heart-o li:before {
+  color: #ff9600;
+}
+
+.b-list.l-numered span {
+  color: #ff9600;
+}
+
+/*Dropcap styles*/
+.b-round-dropcap .round-dropcap {
+  background: #ff9600;
+}
+
+/*Blockquote Style*/
+.b-blockquote-fa-quote .quote-text {
+  color: #ff9600;
+}
+
+.b-blockquote-left-border {
+  position: relative;
+  padding: 3px 0;
+}
+.b-blockquote-left-border:before {
+  background: #ff9600;
+}
+
+.b-blockquote-fa-quote-circle.quote-circle-mod-2 {
+  border: 4px solid #ff9600;
+}
+
+/* 404 block */
+.empty-b .zero-change .st0{
+  fill:#ff9600;
+}

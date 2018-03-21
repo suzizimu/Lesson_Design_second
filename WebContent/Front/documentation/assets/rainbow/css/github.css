@@ -1,0 +1,197 @@
+/**
+ * GitHub theme
+ *
+ * @author Craig Campbell
+ * @version 1.0.4
+ */
+ 
+ 
+ html {
+	background-color: #EEEEEE;
+	color: #383838;
+}
+		::-moz-selection {
+background:#333636;
+color:#e24545;
+}
+::selection {
+	background: #333636;
+	color: #e24545;
+}
+#documenter_sidebar #documenter_logo {
+	background-image: url(../../images/image_1.png);
+}
+
+#documenter_buttons a{
+	color:#fff !important;
+	text-decoration:none !important;
+}
+
+a {
+	color: #e24545;
+}
+.btn {
+	border-radius: 3px;
+}
+.btn-primary {
+	background-image: -moz-linear-gradient(top, #e24545, #e24545);
+	background-image: -ms-linear-gradient(top, #e24545, #e24545);
+ background-image: -webkit-gradient(linear, 0 0, 0 28AD62%, from(#343838), to(#e24545));
+	background-image: -webkit-linear-gradient(top, #e24545, #e24545);
+	background-image: -o-linear-gradient(top, #e24545, #e24545);
+	background-image: linear-gradient(top, #e24545, #e24545);
+ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#e24545', endColorstr='#e24545', GradientType=0);
+	border-color: #e24545 #e24545 #bfbfbf;
+	color: #FFFFFF;
+}
+.btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
+	border-color: #e24545 #e24545 #bfbfbf;
+	background-color: #e24545;
+}
+hr {
+	border-top: 1px solid #D4D4D4;
+	border-bottom: 1px solid #FFFFFF;
+}
+#documenter_sidebar, #documenter_sidebar ul a {
+	background-color: #343838;
+	color: #FFFFFF;
+}
+#documenter_sidebar ul a {
+	-webkit-text-shadow: 1px 1px 0px #494F4F;
+	-moz-text-shadow: 1px 1px 0px #494F4F;
+	text-shadow: 1px 1px 0px #494F4F;
+}
+#documenter_sidebar ul {
+	border-top: 1px solid #212424;
+}
+#documenter_sidebar ul a {
+	border-top: 1px solid #494F4F;
+	border-bottom: 1px solid #212424;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	font-size: 11px;
+}
+#documenter_sidebar ul a:hover {
+	background: #333636;
+	color: #e24545;
+	border-top: 1px solid #333636;
+}
+#documenter_sidebar ul a.current {
+	background: #333636;
+	color: #e24545;
+	border-top: 1px solid #333636;
+}
+#documenter_copyright {
+	display: block !important;
+	visibility: visible !important;
+}
+iframe {
+	margin: 30px 0;
+	display: block;
+}
+#documenter_content {
+	color: #000;
+	font-size: 14px;
+	text-align: left;
+	padding-top:50px;
+}
+#documenter_cover a {
+	color: #2e375f;
+	text-decoration: underline;
+}
+#documenter_cover a:hover {
+	text-decoration: none;
+}
+#documenter_content img {
+	max-width: 100%;
+	height: auto;
+	margin-bottom: 20px;
+}
+
+.heading-2{
+	text-transform:uppercase;
+}
+
+hr {
+	margin: 20px 0;
+}
+pre {
+	border: 1px solid #ccc;
+	word-wrap: break-word;
+	padding: 0 10px 20px;
+	line-height: 19px;
+	margin-bottom: 20px;
+	margin-top: 10px;
+	display: inline-block;
+	width: 95%;
+	overflow-x: auto;
+}
+.rainbow .close {
+	color: inherit !important;
+	float: none !important;
+	font-family: inherit !important;
+	font-size: 14px;
+	font-weight: normal !important;
+	opacity: 1 !important;
+	text-shadow: inherit !important;
+}
+code {
+	border: 1px solid #eaeaea;
+	margin: 0px 2px;
+	padding: 0px 5px;
+	font-size: 12px;
+}
+pre code {
+	border: 0px;
+	padding: 0px;
+	margin: 0px;
+	-moz-border-radius: 0px;
+	-webkit-border-radius: 0px;
+	border-radius: 0px;
+}
+pre, code {
+	font-family: Consolas, 'Liberation Mono', Courier, monospace;
+	color: #333;
+	background: #f8f8f8;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+}
+pre, pre code {
+	font-size: 13px;
+}
+pre .comment {
+	color: #998;
+}
+pre .support {
+	color: #0086B3;
+}
+pre .tag, pre .tag-name {
+	color: navy;
+}
+pre .keyword, pre .css-property, pre .vendor-prefix, pre .sass, pre .class, pre .id, pre .css-value, pre .entity.function, pre .storage.function {
+	font-weight: bold;
+}
+pre .css-property, pre .css-value, pre .vendor-prefix, pre .support.namespace {
+	color: #333;
+}
+pre .constant.numeric, pre .keyword.unit, pre .hex-color {
+	font-weight: normal;
+	color: #099;
+}
+pre .entity.class {
+	color: #458;
+}
+pre .entity.id, pre .entity.function {
+	color: #900;
+}
+pre .attribute, pre .variable {
+	color: teal;
+}
+pre .string, pre .support.value {
+	font-weight: normal;
+	color: #d14;
+}
+pre .regexp {
+	color: #009926;
+}

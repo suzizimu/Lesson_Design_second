@@ -1,0 +1,100 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+ - Global
+
+- Project:	iSmile - Phones Market HTML/CSS Template
+- Version:	1.1
+- Author:  Andrey Sokoltsov
+- Profile:	http://themeforest.net/user/andreysokoltsov
+
+-------------------------------------------------------------------*/
+
+/* Global */
+h1 {
+  font-size: 42px;
+}
+
+h2 {
+  font-size: 34px;
+}
+
+h3 {
+  font-size: 26px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 18px;
+}
+
+h6 {
+  font-size: 16px;
+}
+
+.b-logo {
+  display: inline-block;
+}
+.b-logo a {
+  display: inline-block;
+}
+.b-logo a span {
+  display: inline-block;
+}
+.b-logo a span:first-child {
+  font-size: 26px;
+  font-weight: bold;
+}
+.b-logo a span:last-child {
+  text-transform: uppercase;
+  font-size: 12px;
+  letter-spacing: 10px;
+}
+
+.heading-light {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 30px;
+  color: #777777;
+}
+
+.heading-line, .heading-line-long {
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding-bottom: 7px;
+  position: relative;
+}
+.heading-line:before, .heading-line-long:before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  display: block;
+  height: 2px;
+  width: 15px;
+}
+
+.heading-line-long {
+  float: left;
+}
+.heading-line-long:before {
+  width: 500%;
+  left: -490%;
+}
+
+h3.heading-line, h3.heading-line-long {
+  font-size: 22px;
+}
+
+.b-form-description p {
+  color: #888888;
+  font-size: 14px;
+}
+
+.b-text p {
+  line-height: 22px;
+}
